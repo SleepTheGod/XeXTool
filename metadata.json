@@ -1,0 +1,5 @@
+{
+  "name": "XEX Decompiler & Converter",
+  "description": "Xbox 360 .XEX binary to C source code decompiler and converter utility.",
+  "requestFramePermissions": []
+}
